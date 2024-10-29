@@ -7,7 +7,7 @@
 
 - 👯 I’m looking forward to collaborate on **Problem solving ,impactful projects with edge cutting technologies**
 
-- 💬 Ask me about **Flutter ,Java ,UI-UX designing ,**
+- 💬 Ask me about **Flutter ,Java ,UI-UX designing **
 
 - 📫 How to reach me **asheeqaofficial127@gmail.com**
 
