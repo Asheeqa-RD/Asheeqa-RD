@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Asheeqa K</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on **AI powered automated waste collection system project**
+- 🔭 I’m currently working on AI powered automated waste collection system project
 
-- 🌱 I’m currently learning **Artificial Intelligence ,Machine learning ,Data Science**
+- 🌱 I’m currently learning Artificial Intelligence ,Machine learning ,Data Science
 
-- 👯 I’m looking forward to collaborate on **Problem solving ,impactful projects with edge cutting technologies**
+- 👯 I’m looking forward to collaborate on Problem solving ,impactful projects with edge cutting technologies
 
-- 💬 Ask me about **Flutter ,Java ,UI-UX designing **
+- 💬 Ask me about Flutter ,Java ,UI-UX designing .
 
-- 📫 How to reach me **asheeqaofficial127@gmail.com**
+- 📫 How to reach me asheeqaofficial127@gmail.com
 
-- ⚡ Fun fact **An aspired tech developer who is extremley fascinated with poetry and Literature**
+- ⚡ Fun fact An aspired tech developer who is extremley fascinated with poetry and Literature
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
